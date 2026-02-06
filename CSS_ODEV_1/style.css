@@ -1,0 +1,66 @@
+        body{
+            text-align: center;
+            background-color: blanchedalmond;
+            
+        }
+        header{
+            font-size: large;
+            color: darkblue;
+        }
+        header img{
+            width: 700px;
+        }
+        nav{
+            background-color: tomato;
+            padding: 10px;            
+        }
+        nav a{
+            font-size: 18px;
+            color: white;
+            margin: 0 10px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav a:hover{
+            text-decoration: underline;
+            color: brown;
+        }
+        ol{
+            list-style-position: inside;
+            padding: 0;
+        }
+        .intro-text {
+            font-size: 18px;
+            color: darkblue;
+            max-width: 600px;
+            margin: 20px auto;
+            background: darksalmon;
+            padding: 15px;
+            border-radius: 10px;
+            box-shadow: 3px 3px 10px rgba(0,0,0,0.2);
+        }
+        .list{
+            font-size: 18px;
+            color: darkblue;
+            max-width: 650px;
+            margin: 20px auto;
+            background: darksalmon;
+            padding: 15px;
+            border-radius: 10px;
+            box-shadow: 3px 3px 10px rgba(0,0,0,0.2);
+        }
+        .equipment-card{
+            font-size: 20px;
+            font-family: monospace;
+        }
+        .equipment-card img{
+            width: 400px;
+        }
+        .about-text {
+            width: 650px;
+            margin: auto;
+            background-color: #ffe4b5;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 3px 3px 10px rgba(0,0,0,0.2);
+        }
